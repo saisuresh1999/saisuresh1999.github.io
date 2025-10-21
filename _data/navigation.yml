@@ -10,7 +10,9 @@
 main:
   - title: "Publications"
     url: /publications/
+
   - title: "Academic Activities"
-    url: /academic-activities/
+    url: /activities/
+
   - title: "CV"
     url: /files/cv.pdf

@@ -1,9 +1,13 @@
 ---
-layout: single
-title: "About me"
 permalink: /
+title: "About me"
+excerpt: "About Me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 ## Hi there 👋
 
@@ -52,9 +56,7 @@ I’m currently doing the groundwork for my master’s thesis under the supervis
 ---
 
 ## Publications
-
-You can find a list of my publications on my [**Google Scholar**](https://scholar.google.com/citations?user=rm5fF-gAAAAJ&hl=en) profile.  
-Selected papers will also appear on the [**Publications**](../publications/) page as they become available.
+You can find a list of my publications under [Publications](https://saisuresh1999.github.io/publications/) or on [Google Scholar](https://scholar.google.com/citations?user=rm5fF-gAAAAJ&hl=en).
 
 ---
 

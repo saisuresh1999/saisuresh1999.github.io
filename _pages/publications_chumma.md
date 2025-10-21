@@ -1,9 +1,9 @@
----
+<!-- ---
 title: "Publications"
 permalink: /publications/
-layout: single
+layout: archive
 author_profile: true
----
+--- -->
 
 ### [Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews](https://arxiv.org/abs/2509.13400)
 
