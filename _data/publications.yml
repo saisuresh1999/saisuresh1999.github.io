@@ -1,22 +1,23 @@
 main:
 
   - title: "Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews"
-    authors: <strong>Sai Suresh Macharla Vasu</strong>, et al.
+    authors: <strong>Sai Suresh Macharla Vasu</strong>, Ivaxi Sheth, Hui-Po Wang, Ruta Binkyte, Mario Fritz
     conference_short: NeurIPS WS
     conference: NeurIPS 2025 Workshop on Large Language Model Evaluation <strong>(NeurIPS 2025 Workshop)</strong>, 2025.
     pdf: https://arxiv.org/abs/2509.13400
-    notes: Workshop Paper
+    image: ./assets/img/justice_in_judgement.png
 
   - title: "Challenges of Evaluating LLM Safety for User Welfare"
-    authors: <strong>Sai Suresh Macharla Vasu</strong>, et al.
+    authors: Manon Kempermann, <strong>Sai Suresh Macharla Vasu</strong>, Mahalakshmi Raveenthiran, Theo Farrell, Ingmar Weber
     conference_short: IASEAI
     conference: International Workshop on AI Safety Engineering and AI Incidents <strong>(IASEAI'26)</strong>, 2026.
     pdf: https://arxiv.org/abs/2512.10687
+    image: ./assets/img/user_welfare.png
     notes: Accepted
 
   - title: "AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping"
-    authors: <strong>Sai Suresh Macharla Vasu</strong>, et al.
+    authors: Md Abdul Kadir, <strong>Sai Suresh Macharla Vasu</strong>, Sidharth S. Nair, Daniel Sonntag
     conference_short: NeurIPS WS
     conference: NeurIPS 2025 Workshop on Generative AI for Finance <strong>(NeurIPS 2025 Workshop)</strong>, 2025.
     pdf: https://arxiv.org/abs/2512.02726
-    notes: Workshop Paper
+    image: ./assets/img/audit_copilot.png
