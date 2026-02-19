@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews"
+    authors: <strong>Sai Suresh Macharla Vasu</strong>, et al.
+    conference_short: NeurIPS WS
+    conference: NeurIPS 2025 Workshop on Large Language Model Evaluation <strong>(NeurIPS 2025 Workshop)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2509.13400
+    notes: Workshop Paper
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Challenges of Evaluating LLM Safety for User Welfare"
+    authors: <strong>Sai Suresh Macharla Vasu</strong>, et al.
+    conference_short: IASEAI
+    conference: International Workshop on AI Safety Engineering and AI Incidents <strong>(IASEAI'26)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2512.10687
+    notes: Accepted
+
+  - title: "AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping"
+    authors: <strong>Sai Suresh Macharla Vasu</strong>, et al.
+    conference_short: NeurIPS WS
+    conference: NeurIPS 2025 Workshop on Generative AI for Finance <strong>(NeurIPS 2025 Workshop)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2512.02726
+    notes: Workshop Paper

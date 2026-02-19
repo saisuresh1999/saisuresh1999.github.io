@@ -1,16 +1,29 @@
-## Services
+## Experience
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Research</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><autocolor><strong>Student Research Assistant – Trustworthy ML</strong>, <a href="https://cispa.de/">CISPA Helmholtz Center for Information Security</a>, Saarbrücken, Germany (Dec 2025 – Present)</autocolor></li>
+  <li><autocolor><strong>Research Fellow – AI Safety Saarland Incubator</strong>, AI Safety Saarland Research Group, Saarbrücken, Germany (Oct 2025 – Feb 2026)</autocolor></li>
+  <li><autocolor><strong>Student Research Assistant – Interactive Machine Learning</strong>, <a href="https://www.dfki.de/en/web">DFKI</a>, Saarbrücken, Germany (Jul 2024 – Nov 2025)</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Teaching</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor><strong>Head Tutor / Teaching Assistant – Machine Learning Courses</strong>, Saarland University (Nov 2024 – Feb 2026)</autocolor></li>
+</ul>
+
+## Education
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor><strong>M.Sc. Data Science and Artificial Intelligence (DSAI)</strong>, Saarland University, Germany (Oct 2023 – Present) — Grade: 1.6</autocolor></li>
+  <li><autocolor><strong>B.E. Computer Science and Engineering</strong>, Anna University, Chennai, India (Aug 2017 – Aug 2021) — CGPA: 8.92</autocolor></li>
+</ul>
+
+## Awards &amp; Honours
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor><strong>Saarland Scholarship for International Students</strong>, Saarland University — Summer Semester 2025</autocolor></li>
+  <li><autocolor><strong>President Scout (Pfadfinder) Award</strong> — Dec 2016</autocolor></li>
 </ul>
