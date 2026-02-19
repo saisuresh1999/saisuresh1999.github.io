@@ -10,10 +10,9 @@ main:
   - title: "Challenges of Evaluating LLM Safety for User Welfare"
     authors: Manon Kempermann, <strong>Sai Suresh Macharla Vasu</strong>, Mahalakshmi Raveenthiran, Theo Farrell, Ingmar Weber
     conference_short: IASEAI
-    conference: International Workshop on AI Safety Engineering and AI Incidents <strong>(IASEAI'26)</strong>, 2026.
+    conference: International Association for Safe and Ethical AI <strong>(IASEAI'26)</strong>, 2026.
     pdf: https://arxiv.org/abs/2512.10687
     image: ./assets/img/user_welfare.png
-    notes: Accepted
 
   - title: "AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping"
     authors: Md Abdul Kadir, <strong>Sai Suresh Macharla Vasu</strong>, Sidharth S. Nair, Daniel Sonntag

@@ -3,8 +3,8 @@
 <h4 style="margin:0 10px 0;">Research</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor><strong>Student Research Assistant – Trustworthy ML</strong>, <a href="https://cispa.de/">CISPA Helmholtz Center for Information Security</a>, Saarbrücken, Germany (Dec 2025 – Present)</autocolor></li>
-  <li><autocolor><strong>Research Fellow – AI Safety Saarland Incubator</strong>, AI Safety Saarland Research Group, Saarbrücken, Germany (Oct 2025 – Feb 2026)</autocolor></li>
+  <li><autocolor><strong>Student Research Assistant – Trustworthy ML</strong>, <a href="https://cispa.de/en/research/groups/fritz">CISPA Helmholtz Center for Information Security</a>, Saarbrücken, Germany (Dec 2025 – Present)</autocolor></li>
+  <li><autocolor><strong>Research Fellow – AI Safety Saarland Incubator</strong>, <a href="https://www.ais-saarland.org/">AI Safety Saarland Research Group</a>, Saarbrücken, Germany (Oct 2025 – Feb 2026)</autocolor></li>
   <li><autocolor><strong>Student Research Assistant – Interactive Machine Learning</strong>, <a href="https://www.dfki.de/en/web">DFKI</a>, Saarbrücken, Germany (Jul 2024 – Nov 2025)</autocolor></li>
 </ul>
 

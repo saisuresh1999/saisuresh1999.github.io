@@ -15,7 +15,7 @@
     {% endif %}
     {% if link.image %}
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1"
-         style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px; display: block;">
+         style="width: 100%; height: auto; object-fit: contain; border-radius: 6px; display: block;">
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
@@ -23,9 +23,6 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
     <div class="links">
-      {% if link.pdf %}
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
       {% if link.notes %}
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
