@@ -3,7 +3,7 @@ title: Sai Suresh Macharla Vasu
 position: M.Sc. Student in Data Science and Artificial Intelligence
 affiliation: Saarland University
 affiliation_link: https://www.uni-saarland.de/en/home.html
-email: saisuresh1999 (at) gmail.com
+email: saisuresh1999(at)gmail(dot)com
 
 # Search Engine Optimization (SEO)
 keywords: Sai Suresh, AI Safety, Trustworthy ML, LLM Evaluation, CISPA, Saarland University, DSAI
@@ -12,9 +12,11 @@ canonical: https://saisuresh1999.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=rm5fF-gAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/saisuresh1999
 linkedin: https://www.linkedin.com/in/sai-suresh-macharla-vasu
+twitter: https://x.com/saisuresh1999
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
