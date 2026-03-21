@@ -5,13 +5,13 @@ layout: homepage
 
 ## About Me
 
-I am an M.Sc. student in **Data Science and Artificial Intelligence (DSAI)** at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. I am currently a **Student Research Assistant** in the Trustworthy ML group at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/research/groups/fritz), supervised by [Prof. Dr. Mario Fritz](https://cispa.saarland/group/fritz/). I was a Research Fellow at the [AI Safety Saarland Incubator](https://www.ais-saarland.org/) and a Student Research Assistant at [DFKI](https://www.dfki.de/en/web) in the Interactive Machine Learning group.
+I am an M.Sc. student in **Data Science and Artificial Intelligence (DSAI)** at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. I am currently a **Student Research Assistant** in the Trustworthy ML group at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/research/groups/fritz), in the group of [Prof. Dr. Mario Fritz](https://cispa.saarland/group/fritz/). I was a Research Fellow at the [AI Safety Saarland Incubator](https://www.ais-saarland.org/) and a Student Research Assistant at [DFKI](https://www.dfki.de/en/web) in the Interactive Machine Learning group.
 
-My work lies at the intersection of **AI Safety** and **Personalization** — with a particular focus on evaluating model safety for user welfare, identifying hidden biases, and understanding how language models can be personalized through multi-turn interactions and memory.
+My work lies at the intersection of **A(G)I Safety** and **Human-AI Interaction** — with a particular focus on evaluating model safety for user welfare, identifying hidden biases, and understanding how language models can be adapted through multi-turn interactions and memory.
 
 ## Research Interests
 
-- **AI Safety:** evaluating LLM safety for user welfare, identifying failure modes of deployed AI systems
+- **A(G)I Safety:** evaluating LLM safety for user welfare, identifying failure modes of deployed AI systems
 - **Personalization via Multi-Turn Interactions:** adapting language model behaviour through conversational context
 - **Personalization from Memory:** enabling models to learn and retain user-specific knowledge across interactions
 
