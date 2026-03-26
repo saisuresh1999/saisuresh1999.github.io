@@ -25,3 +25,13 @@ My work lies at the intersection of **A(G)I Safety** and **Human-AI Interaction*
 - **[Jul. 2025]** Awarded the **Saarland Scholarship for International Students** (Summer Semester 2025).
 
 {% include_relative _includes/publications.md %}
+
+## Beyond Research
+
+I am an avid traveller — having explored 15+ countries across the world. Outside of academia, I enjoy staying updated on the latest in tech and culture through [X](https://x.com), and I am a big movie buff.
+
+I am also a proud **President Scout Awardee**, having received the highest scouting honour in India from the Former President of India in December 2016.
+
+<div style="text-align: center; margin-top: 10px;">
+  <img src="assets/img/scout_award.jpg" alt="President Scout Award" style="max-width: 350px; border-radius: 8px;">
+</div>
