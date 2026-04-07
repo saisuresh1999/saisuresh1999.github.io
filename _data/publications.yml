@@ -7,13 +7,6 @@ main:
     pdf: https://arxiv.org/abs/2509.13400
     image: ./assets/img/justice_in_judgement.png
 
-  - title: "Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews"
-    authors: <strong>Sai Suresh Macharla Vasu</strong>*, Ivaxi Sheth*, Hui-Po Wang, Ruta Binkyte, Mario Fritz
-    conference_short: NeurIPS WS
-    conference: NeurIPS 2025 Workshop on Large Language Model Evaluation <strong>(NeurIPS 2025 Workshop)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2509.13400
-    image: ./assets/img/justice_in_judgement.png
-
   - title: "Challenges of Evaluating LLM Safety for User Welfare"
     authors: Manon Kempermann, <strong>Sai Suresh Macharla Vasu</strong>, Mahalakshmi Raveenthiran, Theo Farrell, Ingmar Weber
     conference_short: IASEAI
@@ -27,3 +20,10 @@ main:
     conference: NeurIPS 2025 Workshop on Generative AI for Finance <strong>(NeurIPS 2025 Workshop)</strong>, 2025.
     pdf: https://arxiv.org/abs/2512.02726
     image: ./assets/img/audit_copilot.png
+
+  - title: "Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews"
+    authors: <strong>Sai Suresh Macharla Vasu</strong>*, Ivaxi Sheth*, Hui-Po Wang, Ruta Binkyte, Mario Fritz
+    conference_short: NeurIPS WS
+    conference: NeurIPS 2025 Workshop on Large Language Model Evaluation <strong>(NeurIPS 2025 Workshop)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2509.13400
+    image: ./assets/img/justice_in_judgement.png
