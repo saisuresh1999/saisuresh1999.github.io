@@ -17,6 +17,8 @@ My work lies at the intersection of **A(G)I Safety** and **Human-AI Interaction*
 
 ## News
 
+- **[Apr. 2026]** Paper *"Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews"* accepted to **ACL 2026 Findings**.
+- **[Apr. 2026]** Awarded the **Saarland Scholarship for International Students** (Summer Semester 2026).
 - **[Feb. 2026]** Paper *"Challenges of Evaluating LLM Safety for User Welfare"* accepted to **IASEAI'26**.
 - **[Dec. 2025]** Started as **Student Research Assistant** at **CISPA Helmholtz Center for Information Security** (Trustworthy ML group).
 - **[Nov. 2025]** Paper *"Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews"* presented at **NeurIPS 2025 Workshop on LLM Evaluation**.
