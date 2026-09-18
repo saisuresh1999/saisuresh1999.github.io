@@ -5,7 +5,7 @@ layout: homepage
 
 ## About Me
 
-I am an M.Sc. student in **Data Science and Artificial Intelligence (DSAI)** at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. I am currently a **Student Research Assistant** in the Trustworthy ML group at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/research/groups/fritz), in the group of [Prof. Dr. Mario Fritz](https://cispa.saarland/group/fritz/). I was a Research Fellow at the [AI Safety Saarland Incubator](https://www.ais-saarland.org/) and a Student Research Assistant at [DFKI](https://www.dfki.de/en/web) in the Interactive Machine Learning group.
+I am an M.Sc. student in **Data Science and Artificial Intelligence (DSAI)** at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. I am currently a **Student Research Assistant** in the Trustworthy ML group at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/research/groups/fritz), in the group of [Prof. Dr. Mario Fritz](https://cispa.saarland/group/fritz/). I am also a **Research Fellow** in the Fall 2026 cohort of **SPAR (Supervised Program for Alignment Research)**, where I work on *moral shadowbanning* — whether conversational AI provides systematically different levels of helpfulness, honesty, or harmlessness to users perceived as having poor moral character. I was a Research Fellow at the [AI Safety Saarland Incubator](https://www.ais-saarland.org/) and a Student Research Assistant at [DFKI](https://www.dfki.de/en/web) in the Interactive Machine Learning group.
 
 My work lies at the intersection of **A(G)I Safety** and **Human-AI Interaction** — with a particular focus on evaluating model safety for user welfare, identifying hidden biases, and understanding how language models can be adapted through multi-turn interactions and memory.
 
@@ -17,6 +17,9 @@ My work lies at the intersection of **A(G)I Safety** and **Human-AI Interaction*
 
 ## News
 
+- **[Sep. 2026]** Selected as a **Research Fellow** in the Fall 2026 cohort of **SPAR (Supervised Program for Alignment Research)**.
+- **[Jul. 2026]** Served as a **Student Volunteer** at **ACL 2026** in San Diego, USA.
+- **[Jul. 2026]** Reviewing for the **NeurIPS 2026 Evaluations & Datasets Track**.
 - **[Apr. 2026]** Paper *"Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews"* accepted to **ACL 2026 Findings**.
 - **[Apr. 2026]** Awarded the **Saarland Scholarship for International Students** (Summer Semester 2026).
 - **[Feb. 2026]** Paper *"Challenges of Evaluating LLM Safety for User Welfare"* accepted to **IASEAI'26**.
