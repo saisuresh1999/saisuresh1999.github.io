@@ -7,8 +7,6 @@ layout: homepage
 
 I am an M.Sc. student in **Data Science and Artificial Intelligence (DSAI)** at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. I am currently a **Student Research Assistant** in the Trustworthy ML group at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/research/groups/fritz), in the group of [Prof. Dr. Mario Fritz](https://cispa.saarland/group/fritz/). I am also a **Research Fellow** in the Fall 2026 cohort of **SPAR (Supervised Program for Alignment Research)**, where I work on *moral shadowbanning* — whether conversational AI provides systematically different levels of helpfulness, honesty, or harmlessness to users perceived as having poor moral character. I was a Research Fellow at the [AI Safety Saarland Incubator](https://www.ais-saarland.org/) and a Student Research Assistant at [DFKI](https://www.dfki.de/en/web) in the Interactive Machine Learning group.
 
-My research interests lie broadly in **AI safety**, particularly the evaluation of autonomous AI agents, understanding their failure modes, and how they interact with people over extended periods. My work spans LLM safety evaluation, bias in AI-assisted decision-making, and long-term personalization through memory. I am particularly interested in how AI agents can use personal information appropriately as user preferences, relationships, and contexts change over time.
-
 ## Research Interests
 
 - **AI Safety and Evaluation:** Understanding failure modes, biases, and safety risks in language models and autonomous AI agents.
